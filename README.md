@@ -81,8 +81,8 @@ O sistema permite:
 Abra dois terminais:
 
 <h3> Backend </h3>
-<code>
-cd backend 
+
+<code> cd backend 
 node index.js
 </code>
 
@@ -91,8 +91,8 @@ Servidor rodará em:
 http://localhost:3000
 <h3> Frontend </h3>
 
-<code> 
-cd frontend 
+
+<code>  cd frontend 
 npm install
 npm run dev
 </code>
